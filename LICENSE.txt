@@ -1,0 +1,18 @@
+The OFF-GBS database consists of a code referencing a product in the Open Food Facts database,
+the calculated Grocery Basket Score (GBS), and nutrients which have been imputed with machine
+learning. The OFF-GBS database is a Derived Database of the Open Food Facts database.
+
+The OFF-GBS database is available under the Open Database License, and individual contents of the
+database are available under the Database Contents License. Please see the files odbl-10.txt and
+dbcl-10.txt for the texts of these licenses.
+
+
+The Open Food Facts database is found here:
+https://world.openfoodfacts.org/
+
+The terms of use of the Open Food Facts database specifically state the following:
+The Open Food Facts database is available under the Open Database License.
+The individual contents of the database are available under the Database Contents License.
+
+The complete terms of use of the Open Food Facts database are found here:
+https://world.openfoodfacts.org/terms-of-use
